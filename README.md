@@ -8,6 +8,7 @@
 * **Estruturas de Decisões**<br>
 * **Funções**<br>
 * **Struct**<br>
+* **Listas**<br>
 * **Biblioteca: CTIME**<br>
 
 
@@ -34,8 +35,4 @@ O Objetivo deste projeto é desenvolver um programa para gerenciar inscrições,
 **5. Sorteio de Brindes:** Os Participantes que estiveram presentes em ao menos 75% das atividades do evento devem ser elegíveis para participar do sorteio de três brindes.
 
 **6. Realização do Sorteio:** O Programa deve realizar automaticamente o sorteio entre os participantes elegíveis e registrar os vencedores.
-
-
-## Estudos:
-
-* 
+ 
